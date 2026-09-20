@@ -1,4 +1,4 @@
-## Hi there 👋
+## This is my first GitHub repositry👋
 
 <!--
 **njhanishant/njhanishant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
